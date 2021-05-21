@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac2d1df49ca7dbf4dbc4113ddf1dd710, type: 3}
+  m_Name: sofa
+  m_EditorClassIdentifier: Assembly-CSharp::Item
+  price: 100
+  itemPrefab: {fileID: 559483936434136461, guid: 443d374a44b107d45be9ea1948b00af8,
+    type: 3}
+  itemImage: {fileID: 21300000, guid: 9bd88b6bad775c94c9ed07f2d71e7979, type: 3}
